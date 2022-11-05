@@ -32,6 +32,7 @@
       <plugin>
         <!-- Build an executable JAR -->
         <!-- Test commit -->
+         <!-- Test commit 1-->
         <groupId>org.apache.maven.plugins</groupId>
         <artifactId>maven-jar-plugin</artifactId>
         <version>3.2.0</version>
