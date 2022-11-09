@@ -12,6 +12,7 @@ mvn clean install
 
 to run
 
+i have edited
 scripts/deliver.sh
 
 
