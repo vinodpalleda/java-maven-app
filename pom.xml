@@ -34,6 +34,7 @@
         <!-- Test commit -->
          <!-- Test commit 1-->
          <!-- Test commit 2-->
+        <!-- Test commit 3-->
         <groupId>org.apache.maven.plugins</groupId>
         <artifactId>maven-jar-plugin</artifactId>
         <version>3.2.0</version>
